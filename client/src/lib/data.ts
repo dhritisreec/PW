@@ -158,5 +158,6 @@ export const certifications = [
 export const socialLinks = [
   { name: "GitHub", url: "https://github.com/dhritisreec", icon: "github" },
   { name: "LinkedIn", url: "https://www.linkedin.com/in/dhritisree-chhabra/", icon: "linkedin" },
+  { name: "X (Twitter)", url: "https://x.com/CDS191002", icon: "twitter" },
   { name: "Email", url: "mailto:dhritisree19@gmail.com", icon: "mail" },
 ];

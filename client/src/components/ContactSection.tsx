@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
-import { FaEnvelope, FaMapMarkerAlt, FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaEnvelope, FaMapMarkerAlt, FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 
 const ContactSection = () => {
   const sectionRef = useRef(null);
@@ -18,6 +18,7 @@ const ContactSection = () => {
   const socialLinks = [
     { icon: <FaGithub />, url: "https://github.com/dhritisreec", label: "GitHub" },
     { icon: <FaLinkedinIn />, url: "https://www.linkedin.com/in/dhritisree-chhabra/", label: "LinkedIn" },
+    { icon: <FaTwitter />, url: "https://x.com/CDS191002", label: "X (Twitter)" },
   ];
 
   return (
