@@ -117,15 +117,11 @@ const ProjectsSection = () => {
                     </span>
                   ))}
                 </div>
-                <div className="flex justify-between">
+                <div className="flex justify-end">
                   <a
-                    href={project.demo}
-                    className="text-primary hover:text-cyan-400 transition-colors flex items-center"
-                  >
-                    <FaExternalLinkAlt className="mr-1" /> Live Demo
-                  </a>
-                  <a
-                    href={project.source}
+                    href="https://github.com/dhritisreec"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="text-primary hover:text-cyan-400 transition-colors flex items-center"
                   >
                     <FaGithub className="mr-1" /> Source Code
