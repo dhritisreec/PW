@@ -88,7 +88,7 @@ export const projects = [
 // Work Experience
 export const experiences = [
   {
-    title: "Engineer",
+    title: "Associate Software Engineer",
     company: "Accenture in India",
     period: "August 2024 - Present",
     description: "I have been immersed in PL/SQL and APEX cloud development, honing my skills in system implementation, data analysis, quality assurance, and collaborative problem-solving. My role involves working on innovative solutions, ensuring project quality, and aligning deliverables with requirements.",
