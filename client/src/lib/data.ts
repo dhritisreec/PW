@@ -3,7 +3,7 @@ export const skillCategories = [
   {
     title: "Programming",
     icon: "code",
-    skills: ["Python", "Java", "PL/SQL", "MySQL"],
+    skills: ["Python", "Java", "PL/SQL", "MySQL", "Shell scripting" ],
   },
   {
     title: "Data Science",
@@ -14,6 +14,8 @@ export const skillCategories = [
       "NLP",
       "Data Visualization",
       "ETL Process",
+      "Exploratory Data Analysis",
+      "Feature Engineering",
     ],
   },
   {
@@ -26,6 +28,9 @@ export const skillCategories = [
       "Git & CI/CD",
       "AWS, Azure, GCP",
       "APEX-Oracle Cloud",
+      "Databricks",
+      "JIRA",
+      "Apache Spark",
     ],
   },
   {
