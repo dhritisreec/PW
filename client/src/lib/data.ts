@@ -3,7 +3,7 @@ export const skillCategories = [
   {
     title: "Programming",
     icon: "code",
-    skills: ["Python", "Java", "PL/SQL", "MySQL", "Shell scripting" ],
+    skills: ["Python", "Java", "PL/SQL", "MySQL", "Bash/Shell scripting","HCL" ],
   },
   {
     title: "Data Science",
@@ -101,7 +101,7 @@ export const experiences = [
     title: "Associate Software Engineer",
     company: "Accenture in India",
     period: "August 2024 - Present",
-    description: "I have been immersed in PL/SQL and APEX cloud development, honing my skills in system implementation, data analysis, quality assurance, and collaborative problem-solving. My role involves working on innovative solutions, ensuring project quality, and aligning deliverables with requirements.",
+    description: "I contributed to building and optimizing a cloud provisioning platform using Terraform, AWS, Jenkins, and Kubernetes on Linux-based systems. I gained hands-on experience with PL/SQL and backend processes, and supported IaaS practices, CI/CD pipelines, and automation to ensure consistent deployments, efficient resource usage, and scalable infrastructure across projects.",
     bullets: []
   },
   {
