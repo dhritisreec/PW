@@ -27,7 +27,7 @@ const ResumeSection = () => {
 
   const downloadResume = () => {
     // Open resume in a new tab
-    window.open("https://drive.google.com/file/d/1dRZz9TVkaluYIszzSpZB-2U5nDVri4sw/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1OwESx6OrMe7LQojzl3567W21dEu_NKS7/view?usp=sharing", "_blank");
   };
 
   return (

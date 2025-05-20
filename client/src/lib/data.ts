@@ -16,21 +16,24 @@ export const skillCategories = [
       "ETL Process",
       "Exploratory Data Analysis",
       "Feature Engineering",
+      "TensorFlow",
+      "Scikit-learn",
+    
     ],
   },
   {
     title: "Tools & Frameworks",
     icon: "tools",
     skills: [
-      "TensorFlow",
-      "Scikit-learn",
       "Power BI & Tableau",
       "Git & CI/CD",
-      "AWS, Azure, GCP",
-      "APEX-Oracle Cloud",
+      "AWS, Azure, GCP, OCI",
       "Databricks",
       "JIRA",
       "Apache Spark",
+      "Terraform",
+      "Jenkins",
+      "Flask",
     ],
   },
   {
@@ -43,6 +46,8 @@ export const skillCategories = [
       "Public Speaking",
       "Team Management",
       "Agile Methodology",
+      "Composure",
+      "Adaptability"
     ],
   },
 ];
