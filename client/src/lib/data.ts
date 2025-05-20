@@ -139,6 +139,9 @@ export const education = [
 // Certifications
 export const certifications = [
   {
+    name: "Cloud Digital Leader",
+    issuer: "Google",
+  },{
     name: "Azure AI Fundamentals (AI-900)",
     issuer: "Microsoft",
   },
