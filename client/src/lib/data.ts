@@ -89,8 +89,8 @@ export const projects = [
     title: "FinSight",
     description:
       "Financial News Sentiment Analyzer using VADER, yfinance, and ML models to provide actionable buy/sell signals.",
-    tags: ["Python", "Computer Vision", "Deep Learning", "TensorFlow"],
-    category: "Computer Vision",
+    tags: ["Python", "NLP", "Deep Learning", "PyTorch"],
+    category: "NLP, ML",
     demo: "#",
     source: "https://github.com/dhritisreec",
   },
@@ -100,9 +100,9 @@ export const projects = [
 export const experiences = [
   {
     title: "Associate Software Engineer",
-    company: "Accenture in India",
+    company: "Accenture",
     period: "August 2024 - Present",
-    description: "I contributed to building and optimizing a cloud provisioning platform using Terraform, AWS, Jenkins, and Kubernetes on Linux-based systems. I gained hands-on experience with PL/SQL and backend processes, and supported IaaS practices, CI/CD pipelines, and automation to ensure consistent deployments, efficient resource usage, and scalable infrastructure across projects.",
+    description: "I work for a big OTT platform and am immersed in Full stack development for now. I also contributed to building and optimizing a cloud provisioning platform using Terraform, AWS, Jenkins, and Kubernetes on Linux-based systems. I gained hands-on experience with PL/SQL and backend processes, and supported IaaS practices, CI/CD pipelines, and automation to ensure consistent deployments, efficient resource usage, and scalable infrastructure across projects.",
     bullets: []
   },
   {
