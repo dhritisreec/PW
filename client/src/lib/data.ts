@@ -18,6 +18,7 @@ export const skillCategories = [
       "Feature Engineering",
       "TensorFlow",
       "Scikit-learn",
+      "MLOps"
     
     ],
   },
@@ -64,7 +65,7 @@ export const projects = [
     tags: ["Python", "Machine Learning", "Cybersecurity"],
     category: "Security",
     demo: "#",
-    source: "https://github.com/dhritisree/phishing-detection",
+    source: "https://github.com/dhritisreec",
   },
   {
     title: "Analysis of Sales Data using ETL process",
@@ -73,25 +74,25 @@ export const projects = [
     tags: ["Python", "ETL", "Tableau", "Data Analysis"],
     category: "Business Intelligence",
     demo: "#",
-    source: "https://github.com/dhritisree/sales-data-analysis",
+    source: "https://github.com/dhritisreec",
   },
   {
-    title: "X Comment Toxicity Detection using NLP (65% accuracy)",
+    title: "toXic- X Comment Toxicity Detection using NLP",
     description:
       "Created an NLP-based system that detects toxic comments on the X platform (formerly Twitter) with 65% accuracy, helping to identify and flag harmful content for moderation.",
     tags: ["Python", "NLP", "Machine Learning"],
     category: "Content Moderation",
     demo: "#",
-    source: "https://github.com/dhritisree/toxicity-detection",
+    source: "https://github.com/dhritisreec",
   },
   {
-    title: "Real-Time Object Detection",
+    title: "FinSight",
     description:
-      "Developed a real-time object detection system using computer vision and deep learning techniques to identify and track objects in video streams with high accuracy and minimal latency.",
+      "Financial News Sentiment Analyzer using VADER, yfinance, and ML models to provide actionable buy/sell signals.",
     tags: ["Python", "Computer Vision", "Deep Learning", "TensorFlow"],
     category: "Computer Vision",
     demo: "#",
-    source: "#",
+    source: "https://github.com/dhritisreec",
   },
 ];
 
